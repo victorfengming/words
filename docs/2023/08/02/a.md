@@ -1,5 +1,7 @@
 # 20230802web3
 
+![](a.jpg)
+
 1. infrastructure, 基础设施
 2. proponent,支持者,
 3. tailored个性化
