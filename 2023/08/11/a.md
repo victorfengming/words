@@ -2,4 +2,5 @@
  underlie , 基础
  techniques discussed, 技术讨论
  intuitions, 直觉
- pros, 优点
+pros and cons, 优点和缺点
+potential approaches, 潜在的方法
